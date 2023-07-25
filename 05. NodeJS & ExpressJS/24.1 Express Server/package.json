@@ -1,0 +1,16 @@
+{
+  "name": "24.1-express-server",
+  "version": "1.0.0",
+  "description": "My first express server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nandni Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
